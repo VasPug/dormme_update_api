@@ -3,7 +3,7 @@
   "enabled": true,
 "majorMsg": {
   "title": "Important App update",
-  "msg": "Please update your app to the latest version to continue using it.
+  "msg": "Please update your app to the latest version to continue using it."
   "btn": "Download"
 "minorMsg": {
   "title": "App update available",
