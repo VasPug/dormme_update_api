@@ -1,5 +1,5 @@
 {
-  "current": "1.1.0",
+  "current": "1.2.0",
   "enabled": true,
   "majorMsg": {
     "title": "Important App update",
@@ -8,7 +8,7 @@
   },
   "minorMsg": {
     "title": "App update available",
-    "msg": "There's a new version available that improves performance. Please get it now.",
+    "msg": "There's a new version available! Please get it now.",
     "btn": "Download"
   }
 }
